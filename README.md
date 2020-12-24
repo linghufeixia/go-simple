@@ -6,7 +6,7 @@ go简书 的入门教程，包括语法、逻辑运算、逻辑语句，以及�
 0 Go-simple（0）Go简介
 https://blog.csdn.net/afei8080/article/details/111515991
 
-1 Go入门Hello World
+1 Go-simple（1）入门Hello World
 https://blog.csdn.net/afei8080/article/details/111553586
 
 2 Go-simple（2）基础教程-基本数据类型
