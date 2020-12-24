@@ -17,8 +17,15 @@ func TestLogicStament() {
 	fmt.Print("\n")
 	fmt.Print("-----------------------")
 	fmt.Print("\n")
-	fmt.Print("while语句:\n")
-	whilePrint()
+	fmt.Print("switch语句:\n")
+	var day int8 = 5
+	fmt.Println("星期",day)
+	switchPrint(day)
+	fmt.Print("\n")
+	fmt.Print("-----------------------")
+	fmt.Print("\n")
+	fmt.Print("for语句:\n")
+	forPrint()
 	fmt.Print("\n")
 	fmt.Print("-----------------------")
 }
@@ -43,9 +50,33 @@ func ifPrint(age int8) {
 }
 
 /*
-while  求1-10连加的和
+switch语句 查询天气预报
+ */
+func switchPrint(day int8)  {
+	switch day {
+	case 1:
+		fmt.Println("周一阴转多云！")
+	case 2:
+		fmt.Println("周二天气晴朗！")
+	case 3:
+		fmt.Println("周三小雪！")
+	case 4:
+		fmt.Println("周四晴转多云！")
+	case 5:
+		fmt.Println("周五多云！")
+	case 6:
+		fmt.Println("周六晴！")
+	case 7:
+		fmt.Println("周日晴！")
+	default:
+		fmt.Println("请确认一周之内！")
+	}
+}
+
+/*
+for  求1-10连加的和
 */
-func whilePrint() {
+func forPrint() {
 	var i, sum int
 	for i = 1;i <= 10;i++ {
         sum = sum + i
