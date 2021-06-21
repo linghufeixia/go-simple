@@ -30,6 +30,12 @@ https://blog.csdn.net/afei8080/article/details/111573579
 8 Go-simple（8）面向对象
 https://blog.csdn.net/afei8080/article/details/111580200
 
+9 Go-simple（9）文件操作
+https://blog.csdn.net/afei8080/article/details/117996984
+
+10 Go-simple（10）并发操作
+https://blog.csdn.net/afei8080/article/details/118032116
+
 个人博客：https://blog.csdn.net/afei8080/category_2276985.html
 
 全文代码：https://github.com/linghufeixia/go-simple
