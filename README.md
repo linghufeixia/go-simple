@@ -36,6 +36,9 @@ https://blog.csdn.net/afei8080/article/details/117996984
 10 Go-simple（10）并发操作
 https://blog.csdn.net/afei8080/article/details/118032116
 
+11 Go-simple（11）数据库操作
+https://blog.csdn.net/afei8080/article/details/118223192
+
 个人博客：https://blog.csdn.net/afei8080/category_2276985.html
 
 全文代码：https://github.com/linghufeixia/go-simple
